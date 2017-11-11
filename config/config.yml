@@ -1,0 +1,26 @@
+v: 2.6.0
+overrideConfig: q
+ie:
+    - DS_Store
+    - less
+    - scss
+id:
+    - scss
+    - .svn
+    - .sass-cache
+cleanPublic: 'true'
+patternStates:
+    - inprogress
+    - inreview
+    - complete
+styleGuideExcludes: ''
+cacheBusterOn: 'true'
+exportDir: export
+publicDir: public
+sourceDir: source
+defaultPattern: all
+defaultShowPatternInfo: false
+ishMinimum: '240'
+ishMaximum: '2600'
+ishControlsHide:
+    - hay

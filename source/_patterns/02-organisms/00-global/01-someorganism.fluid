@@ -1,0 +1,8 @@
+<f:layout name="default" />
+
+<f:section name="Main">
+Bla bla
+    <f:link.page pageUid="4" class="passthrough" title="{text}">test</f:link.page>
+    <plio:special>Something</plio:special>
+    <f:render partial="somemolecule" arguments="{text: 'Foobar baz'}" />
+</f:section>
