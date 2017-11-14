@@ -3,8 +3,8 @@ Pattern Lab Fluid Edition
 
 **This is the entry point for new Pattern Lab Fluid Edition projects!**
 
-![license](https://img.shields.io/github/license/namelesscoder/patternlab-fluid-editiion.svg)
-![Packagist](https://img.shields.io/packagist/v/namelesscoder/patternlab-fluid-editiion.svg)
+![license](https://img.shields.io/github/license/namelesscoder/patternlab-fluid-edition.svg)
+![Packagist](https://img.shields.io/packagist/v/namelesscoder/patternlab-fluid-edition.svg)
 
 # Pattern Lab Fluid Edition
 
