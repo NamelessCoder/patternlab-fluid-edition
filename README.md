@@ -12,11 +12,6 @@ This package is an edition of [Pattern Lab](http://patternlab.io) for the [TYPO3
 
 ## Installing
 
-There are two methods for downloading and installing the Pattern Lab Fluid Edition:
-
-* [Download a pre-built project](#download-a-pre-built-package)
-* [Use Composer to create a project](#use-composer-to-create-a-project)
-
 **Please note:** The Pattern Lab Fluid edition exclusively uses [Composer](https://getcomposer.org/) to manage project dependencies.
 No pre-built packages are available - the application can only be installed with Composer.
 
