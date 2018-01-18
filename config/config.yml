@@ -24,3 +24,8 @@ ishMinimum: '240'
 ishMaximum: '2600'
 ishControlsHide:
     - hay
+patternExtension: fluid
+lineageMatch: '([<{]f:render.*partial[=:\s&quot;'']*([^&quot;'']+)[&quot;'']*)'
+lineageMatchKey: 2
+styleguideKit: namelesscoder/patternlab-fluid-styleguidekit
+styleguideKitPath: vendor/namelesscoder/patternlab-fluid-styleguidekit
