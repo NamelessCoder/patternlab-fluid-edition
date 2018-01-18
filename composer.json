@@ -6,7 +6,7 @@
   "require": {
     "pattern-lab/core": "^2.8",
     "typo3fluid/fluid": "^2.4",
-    "namelesscoder/patternlab-fluid-patternengine": "^1.0",
+    "namelesscoder/patternlab-fluid-patternengine": "^1.2",
     "pattern-lab/styleguidekit-assets-default": "^3.5",
     "namelesscoder/patternlab-fluid-styleguidekit": "^1.0"
   },
